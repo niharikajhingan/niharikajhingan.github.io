@@ -4,7 +4,7 @@ title:
 subtitle:  
 ---
 
-![](assets/img/linkedin.png =200x200)
+![me!](assets/img/linkedin.png =200x200)
 
 Hello, I'm Niharika! I'm a senior at Brown University, from Singapore, studying Computer Science and Linguistics. I like trying to understand languages and people, and am interested in getting computers to do the same!
 
