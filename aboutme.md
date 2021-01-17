@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 
+subtitle:  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I'm Niharika! I'm a senior at Brown University, from Singapore, studying Computer Science and Linguistics. I like trying to understand languages and people, and am interested in getting computers to do the same!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in Multilingualism and Discourse NLP, and the human-centered aspects of Computational Linguistics. I am currently working at the [Brown Language Understanding and Representation (LUNAR) Lab](https://lunar.cs.brown.edu/) researching computational models for implicatures. I am also working on an independent study project exploring the assignment of grammatical gender in code-switching. I previously worked at the [Brown Human-Computer Interaction Lab](https://hci.brown.edu/), where I researched sleep tracking and self-experiments, and helped develop the [SleepCoacher iOS application](https://apps.apple.com/us/app/sleepcoacher/id1446980859). 
 
-What else do you need?
+Aside from words and machines, I enjoy baking, salsa (the dance and the food), learning to play the trumpet, and learning new languages.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To learn more, feel free to go through my [projects](https://niharikajhingan.github.io/projects), or take a look at my [CV]("/assets/cv")
