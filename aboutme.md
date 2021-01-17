@@ -4,7 +4,7 @@ title:
 subtitle:  
 ---
 
-![Me](/assets/img/linkedin.png)
+![Me](/assets/img/linkedin.png =100x20)
 
 Hello, I'm Niharika! I'm a senior at Brown University, from Singapore, studying Computer Science and Linguistics. I like trying to understand languages and people, and am interested in getting computers to do the same!
 
@@ -12,4 +12,4 @@ I am interested in Multilingualism and Discourse NLP, and the human-centered asp
 
 Aside from words and machines, I enjoy baking, salsa (the dance and the food), learning to play the trumpet, and learning new languages.
 
-To learn more, feel free to go through my [projects](https://niharikajhingan.github.io/projects), or take a look at my [CV]("/assets/website_cv.pdf").
+To learn more, feel free to go through my [projects](https://niharikajhingan.github.io/projects), or take a look at my [CV](/assets/website_cv.pdf).
