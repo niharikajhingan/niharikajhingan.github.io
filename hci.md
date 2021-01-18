@@ -6,7 +6,7 @@ title: Explorations in HCI
 ### SleepCoacher 
 <sub>*January 2019 - May 2020*<sub/> 
 
-<img style="float: right;" src="assets/img/sleepcoacher.png" width="150" height="150"> [SleepCoacher](https://apps.apple.com/us/app/sleepcoacher/id1446980859) is a mobile app that enables users to choose experiments, tracks user sleep data daily, and makes recommendations based on the data collected. I worked on the design and development of the iOS  app, using Swift and Firebase for implementation. I 
+<img style="float: right;" src="assets/img/sleepcoacher.png" width="150" height="150"> [SleepCoacher](https://apps.apple.com/us/app/sleepcoacher/id1446980859) is a mobile app that enables users to choose experiments, tracks user sleep data daily, and makes recommendations based on the data collected. I worked on the design and development of the iOS  app, using Swift and Firebase for implementation. 
 
 I also worked on a diary study with veterans investigating how they can use the application to improve sleep habits, and how the app can be modified to better suit the specific needs of veteran users. The study included user interviews with veterans using the application to find helpful features and areas for improvements, thematic analysis of interview transcripts and diary logs, and data analysis of metric data. 
 
