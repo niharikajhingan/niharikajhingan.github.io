@@ -13,7 +13,7 @@ Working with Daniel Smits, and professors Ellie Pavlick and Roman Feiman, I am e
 
 Co-presented at the Brown Unconference, and submitted a poster to the Brown Summer Research Symposium.
 
-Areas: *Linguistics, Discourse NLP* <br/>
+Areas: *Psycholinguistics, Pragmatics, Discourse NLP* <br/>
 Skills and Tools: *Amazon Mechanical Turk, R*
 
 <hr />
