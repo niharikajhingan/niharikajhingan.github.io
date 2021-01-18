@@ -14,7 +14,7 @@ author: Niharika Jhingan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  About Me: "aboutme"
+  Home: "https://niharikajhingan.github.io/"
   Projects: "projects"
  # Pastry: "pastry"
   
@@ -41,7 +41,7 @@ navbar-links:
 social-network-links:
   email: "jhinganniharika@gmail.com"
 # facebook: deanattali
-  github: niharikajhingan
+# github: niharikajhingan
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: c/daattali
