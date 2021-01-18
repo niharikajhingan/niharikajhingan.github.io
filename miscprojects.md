@@ -12,7 +12,7 @@ Here are some of my other favorites:
 - Мало не покажется! ("It won't seem like a little thing..." (like when a child does something they thought wasn't a big deal, Russian)
 - En la casa vas a ver ("You'll see when we get back home" (a classic across different languages), Spanish)
 - Va pleurer, tu pisseras moins ("Go ahead and cry, you'll piss less", French)
-- S’e ngon nanën e ngon njerkën! ("If you dont listen to your mother, you end up listening to your stepmother!", Albanian)
+- S’e ngon nanën e ngon njerkën! ("If you dont listen to your mother, you end up listening to your stepmother!", Albanian)  
 And this is one I personally grew up with, which also inspired me to undertake this project: 
 - मुझसे बुरा कोई नहीं होगा... ("No one will be worse than me..." (used in threats, for instance "If you don't clean up your room, no one will be worse than me"), Hindi) 
 
