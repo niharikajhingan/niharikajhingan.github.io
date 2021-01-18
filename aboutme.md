@@ -13,4 +13,4 @@ I previously worked at the [Brown Human-Computer Interaction Lab](https://hci.br
 
 Aside from words and machines, I enjoy baking, salsa (the dance and the food), learning to play the trumpet, and learning new languages.
 
-To learn more, feel free to go through my [projects](https://niharikajhingan.github.io/projects), or take a look at my [CV](/assets/website_cv.pdf).
+To learn more, feel free to go through my [projects](https://niharikajhingan.github.io/ling), or take a look at my [CV](/assets/website_cv.pdf).
