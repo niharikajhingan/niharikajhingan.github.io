@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experimenting with Words, Languages and Computers
+title: Experiments with Words, Languages and Computers
 ---
 <hr />
 
