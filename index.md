@@ -2,7 +2,6 @@
 layout: page
 title: 
 ---
-# About Me
 
 <img src="assets/img/linkedin.png" width="200" height="200" align="center"/>
 
