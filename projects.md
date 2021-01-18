@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Projects
 ---
-## Projects 
 
 My name is Inigo Montoya. I have the following qualities:
 
