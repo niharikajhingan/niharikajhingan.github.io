@@ -2,8 +2,9 @@
 layout: page
 title: 
 ---
-<a href="link" style="text-align: center">
-<img src="assets/img/linkedin.png" width="200" height="200"></a>
+<p align="center">
+  <img src="assets/img/linkedin.png" width="250" height="250"/>
+</p>
 
 Hello, I'm Niharika! I'm a senior at Brown University, from Singapore, studying Computer Science and Linguistics. I like trying to understand languages and people, and am interested in getting computers to do the same!
 
