@@ -22,9 +22,8 @@ Till now, I have collected 72 words and phrases, in 32 different languages or di
 <hr />
 
 ### Baking Wishes Singapore  
-<sub>*November 2018*<sub/> 
-  
-Cheerbox description
+As someone who loves baking, an issue that I faced when I was in high school was wanting to bake a lot more than the people around me wanted to eat (somehow, I have never faced this problem in college). I wanted to experiment and try new things, like fancy piping and fondants, but my somewhat health-conscious family had become weary of the sugar overload (rightfully so). I figured that other baking enthusiasts probably experienced similar things, and so in 2016, I created Baking Wishes Singapore. 
 
-Areas: *UI/UX* <br/>
-Skills and Tools: *Eye-tracking, Proto.io*
+Baking Wishes Singapore was a volunteer platform that allowed home bakers to bake cakes for older people living in elderly care homes. Every month, we would have a list of birthdays from a couple of elderly care homes in Singapore, and bakers could volunteer to bake a birthday cake for someone's birthday. They would then go to the elderly care home to deliver the cake, and often celebrate with the person they baked for! 
+
+I heard many touching stories from the bakers, or the caretakers at the home, about how these cakes and visits brought joy to the people at the homes, which made me happy! It is however really sad to hear of the isolation, loneliness and abandonment felt by the edlerly at some of these homes, especially as some of them are 'put up' in these homes by their own family, after they get to a certain age. There are some really nice initiatives that other people have come up with to combat this, such as [this](https://loveforourelders.org/letters) website, where you can learn about how you can write a letter or send a postcard to someone in an elderly care home! The issue of loneliness is only worsened by the current Covid-19 pandemic, and the need for isolation from family and others. You can also look up your local elderly care homes and see if there are similar opportunities to write letters or send some love! 
