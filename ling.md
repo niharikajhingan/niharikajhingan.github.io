@@ -3,8 +3,6 @@ layout: page
 title: 
 ---
 
-Here are some linguistics and NLP projects I have worked on, or am currently working on:
-
 ### Computational Models of Implicatures 
 <sub>*May 2020 - Present* <sub /> 
   
