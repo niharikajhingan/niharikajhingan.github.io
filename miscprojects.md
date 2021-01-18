@@ -28,9 +28,9 @@ Baking Wishes Singapore was a volunteer platform that allowed home bakers to bak
 
 Here are some pictures from the bakers (from 2017)<br/>
 <p align="center">
-  <img src="assets/img/bws1.jpg" width="200" height="200"/>
-  <img src="assets/img/bws2.JPG" width="200" height="200"/>
-  <img src="assets/img/bws3.jpg" width="200" height="200"/>
+  <img src="/assets/img/bws1.jpg" width="200" height="200"/>
+  <img src="/assets/img/bws2.JPG" width="200" height="200"/>
+  <img src="/assets/img/bws3.jpg" width="200" height="200"/>
 </p>
 
 I heard many touching stories from the bakers, or the caretakers at the home, about how these cakes and visits brought joy to the people at the homes, which made me happy! It was however really sad to hear of the isolation, loneliness and abandonment felt by the elderly at some of these homes, especially as they are far away from family and loved ones. 
