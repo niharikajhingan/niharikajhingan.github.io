@@ -5,7 +5,7 @@ title: Projects
 
 Here are some of the projects I have worked on, or am currently working on:
 
-### Computational Models of Implicatures <sub>*May 2020 - Present* <sub /> 
+### Computational Models of Implicatures ###<sub>*May 2020 - Present* <sub /> 
   
 I am currently working on this project with Ellie Pavlick and Roman Feiman, to 
 
