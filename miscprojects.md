@@ -26,6 +26,9 @@ As someone who loves baking, an issue that I faced when I was in high school was
 
 Baking Wishes Singapore was a volunteer platform that allowed home bakers to bake cakes for older people living in elderly care homes. Every month, we would have a list of birthdays from a couple of elderly care homes in Singapore, and bakers could volunteer to bake a birthday cake for someone's birthday. They would then go to the elderly care home to deliver the cake, and often celebrate with the person they baked for! 
 
+Here are some pictures from the bakers
+<img src=assets/img/bws1><img src=assets/img/bws2><img src=assets/img/bws3>
+
 I heard many touching stories from the bakers, or the caretakers at the home, about how these cakes and visits brought joy to the people at the homes, which made me happy! It was however really sad to hear of the isolation, loneliness and abandonment felt by the elderly at some of these homes, especially as they are far away from family and loved ones. 
 
 There are some really nice initiatives that other people have come up with to combat this, such as [this](https://loveforourelders.org/letters) website in the US, or [this](https://heyyougotmail.com/) initiative, in Singapore. On these sites you can learn about how you can write a letter or send a postcard to someone in an elderly care home! The issue of loneliness has only worsened due the current Covid-19 pandemic and the need for isolation from family and others. You can also look up your local elderly care homes and see if there are similar opportunities to write letters or send some love! 
