@@ -15,7 +15,7 @@ author: Niharika Jhingan
 
 navbar-links:
   Home: "https://niharikajhingan.github.io/"
-  Projects: "projects"
+  Projects: 
     - Linguistics and NLP: "ling"
     - HCI and UI/UX: "hci"
  # Pastry: "pastry"
