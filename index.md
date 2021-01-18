@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 ---
 <p align="center">
   <img src="assets/img/linkedin.png" width="250" height="250"/>
