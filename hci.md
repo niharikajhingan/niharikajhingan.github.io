@@ -11,7 +11,7 @@ Helped launch the first non-beta version of the iOS application, along with mult
 Collaborated on a study with veterans to investigate how they can use the application to improve sleep habits.
 Conducted user interviews with veterans using the application to find helpful features and areas for improvements, and worked on thematic analysis of interview transcripts and diary logs, and data analysis of metric data. 
 
-*Areas: HCI, Diary study
+*Areas: HCI, Diary study <br/>
 Skills and Tools: Swift, Interviewing, Thematic Analysis* 
 
 <hr />
@@ -21,5 +21,5 @@ Skills and Tools: Swift, Interviewing, Thematic Analysis*
   
 Cheerbox description
 
-*Areas: UI/UX
+*Areas: UI/UX <br/>
 Skills and Tools: Eye-tracking, Proto.io*
