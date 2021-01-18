@@ -9,7 +9,7 @@ At some point in 2018, I started collecting the words and phrases that parents /
 
 Here are some of my other favorites: 
 - 生舊叉燒好過生你 ("I'd rather have given birth to a piece of BBQ pork than you", Cantonese)
-- Мало не покажется! ("It won't seem like a little thing..." (like when a child does something they thought wasn't a big deal, Russian)
+- Мало не покажется! ("It won't seem like a little thing...", Russian)
 - En la casa vas a ver ("You'll see when we get back home" (a classic across different languages), Spanish)
 - Va pleurer, tu pisseras moins ("Go ahead and cry, you'll piss less", French)
 - S’e ngon nanën e ngon njerkën! ("If you dont listen to your mother, you end up listening to your stepmother!", Albanian) <br/>
