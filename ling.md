@@ -8,7 +8,7 @@ title:
   
 I am currently working on this project with Ellie Pavlick and Roman Feiman, to 
 
-*Areas: Linguistics, Discourse NLP
+*Areas: Linguistics, Discourse NLP <br/>
 Skills: Amazon Mechanical Turk, R*
 
 <hr />
@@ -18,7 +18,7 @@ Skills: Amazon Mechanical Turk, R*
   
 Working with Masako Fidler, Russian, Czech and English 
 
-*Areas: Linguistics
+*Areas: Linguistics <br/>
 Skills: Corpus analysis, Interviewing*
 
 <hr />
@@ -30,7 +30,7 @@ I worked with a group on a competitive analysis of the ability of symbolic model
 We implemented a simple symbolic parser and an LSTM model trained on the Penn Treebank. 
 We then compared their accuracy in detecting grammatical acceptability using the Corpus of Linguistic Acceptability (CoLA) dataset.
 
-*Areas: NLP
+*Areas: NLP <br/>
 Skills: Tensorflow 2*
 
 <hr />
@@ -40,7 +40,7 @@ Skills: Tensorflow 2*
   
 I collaborated on a group project to make a hate speech detector. We built an LSTM model trained on a dataset of comments from an online hate community forum to detect instances of hate speech (Pytorch). 
 
-*Areas: NLP
+*Areas: NLP <br/>
 Skills: PyTorch*
 
 <hr />
