@@ -6,7 +6,8 @@ title: Projects
 Here are some of the projects I have worked on, or am currently working on:
 
 ### Computational Models of Implicatures 
-<sub>*May 2020 - Present* <sub /> <br /> 
+<sub>*May 2020 - Present* <sub /> 
+  
 I am currently working on this project with Ellie Pavlick and Roman Feiman, to 
 
 *Linguistics, Discourse NLP*
@@ -14,7 +15,8 @@ I am currently working on this project with Ellie Pavlick and Roman Feiman, to
 <hr />
 
 ### Grammatical Gender Assignment in Code-Switching 
-<sub>*August 2020 - Present*<sub/> <br /> 
+<sub>*August 2020 - Present*<sub/> 
+  
 Working with Masako Fidler, Russian, Czech and English 
 
 *Linguistics*
