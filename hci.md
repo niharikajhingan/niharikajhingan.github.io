@@ -2,6 +2,7 @@
 layout: page
 title: Explorations in HCI
 ---
+<hr/>
 
 ### SleepCoacher 
 <sub>*January 2019 - May 2020*<sub/> 
