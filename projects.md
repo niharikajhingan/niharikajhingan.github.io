@@ -24,7 +24,8 @@ Working with Masako Fidler, Russian, Czech and English
 <hr />
 
 ### Comparative Analysis of Neural and Symbolic Models for Grammatical Acceptability 
-<sub>*March 2020 - May 2020* <sub/> <br /> 
+<sub>*March 2020 - May 2020* <sub/> 
+  
 I worked with a group on a competitive analysis of the ability of symbolic models (a symbolic parser) and neural models (an LSTM) to detect grammatical acceptability. 
 We implemented a simple symbolic parser and an LSTM model trained on the Penn Treebank. 
 We then compared their accuracy in detecting grammatical acceptability using the Corpus of Linguistic Acceptability (CoLA) dataset.
@@ -34,7 +35,8 @@ We then compared their accuracy in detecting grammatical acceptability using the
 <hr />
 
 ### Hate speech detection 
-<sub>*November 2019 - December 2020*<sub/> <br /> 
+<sub>*November 2019 - December 2020*<sub/> 
+  
 I collaborated on a group project to make a hate speech detector. We built an LSTM model trained on a dataset of comments from an online hate community forum to detect instances of hate speech (Pytorch). 
 
 *NLP*
@@ -42,7 +44,8 @@ I collaborated on a group project to make a hate speech detector. We built an LS
 <hr />
 
 ### SleepCoacher 
-<sub>*January 2019 - May 2020*<sub/>  <br /> 
+<sub>*January 2019 - May 2020*<sub/> 
+  
 I worked on SleepCoacher, a mobile app that enables users to choose experiments, tracks user sleep data daily, and makes recommendations based on the data collected. The SleepCoacher mobile application can be found on the App Store.
 Worked on the design and development of the iOS  app. I used Swift and Firebase for the app implementation. 
 Helped launch the first non-beta version of the iOS application, along with multiple subsequent updated versions.
@@ -54,7 +57,8 @@ Conducted user interviews with veterans using the application to find helpful fe
 <hr />
 
 ### Cheerbox 
-<sub>*November 2018*<sub/> <br /> 
+<sub>*November 2018*<sub/> 
+  
 Cheerbox description
 
 *UI/UX, Eye-tracking*
