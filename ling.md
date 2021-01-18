@@ -2,6 +2,7 @@
 layout: page
 title: Playing with Words and Languages and Computers
 ---
+<hr />
 
 ### Computational Models of Implicatures 
 <sub>*May 2020 - Present* <sub /> 
