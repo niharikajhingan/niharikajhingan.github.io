@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Explorations in HCI
 ---
 
 ### SleepCoacher 
