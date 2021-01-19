@@ -17,7 +17,7 @@ Here are some of my other favorites:
 And this is one I personally grew up with, which is also what inspired me to undertake this project: 
 - मुझसे बुरा कोई नहीं होगा... ("No one will be worse than me..." (used in threats, for instance "If you don't clean up your room, no one will be worse than me"), Hindi) 
 
-Till now, I have collected 72 words and phrases, in 32 different languages or dialects. If you remember any interesting or creative words and phrases that were used to scold you, or that you use to scold those around you, please fill in [this]() google form so I can add them to my list!
+Till now, I have collected 72 words and phrases, in 32 different languages or dialects. If you remember any interesting or creative words and phrases that were used to scold you, or that you use to scold those around you, please fill in [this](https://forms.gle/qnRo8ZnLBwgBkjSD8) google form so I can add them to my list!
 
 <hr />
 
