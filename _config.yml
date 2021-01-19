@@ -18,7 +18,7 @@ navbar-links:
   Projects: 
     - Linguistics and NLP: "ling"
     - HCI: "hci"
-    - For fun: "miscprojects"
+    - Others: "miscprojects"
  # Pastry: "pastry"
   
 #paginate_path: "/pastry/page:num/"
