@@ -33,6 +33,6 @@ Here are some pictures from the bakers (from 2017)<br/>
   <img src="/assets/img/bws3.jpg" width="200" height="200"/>
 </p>
 
-I heard many touching stories from the bakers, or the caretakers at the home, about how these cakes and visits brought joy to the people at the homes, which made me happy! It was however really sad to hear of the isolation, loneliness and abandonment felt by the elderly at some of these homes, especially as they are far away from family and loved ones. 
+Unfortunately, I had to close down the platform when I left to the United States for college. I heard many touching stories from the bakers, or the caretakers at the home, about how these cakes and visits brought joy to the people at the homes, which made me happy! It was however really sad to hear of the isolation, loneliness and abandonment felt by the elderly at some of these homes, especially as they are far away from family and loved ones. 
 
 There are some really nice initiatives that other people have come up with to combat this, such as [this](https://loveforourelders.org/letters) website in the US, or [this](https://heyyougotmail.com/) initiative, in Singapore. On these sites you can learn about how you can write a letter or send a postcard to someone in an elderly care home! The issue of loneliness has only worsened due the current Covid-19 pandemic and the need for isolation from family and others. You can also look up your local elderly care homes and see if there are similar opportunities to write letters or send some love! 
