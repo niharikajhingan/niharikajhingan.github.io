@@ -7,7 +7,7 @@ title: Experiments with Words, Languages and Computers
 ### Computational Models of Implicatures 
 <sub>*May 2020 - Present* <sub /> 
   
-Working with Daniel Smits, and professors Ellie Pavlick and Roman Feiman, I am exploring pragmatic reasoning and implicatures, and the generation of alternatives in computing an implicature. We are focusing on: 
+Working with Ellie Pavlick, Roman Feiman and Daniel Smits, I am exploring pragmatic reasoning and implicatures, and the generation of alternatives in computing an implicature. We are focusing on: 
 - How these alternatives are cognitively structured and used
 - How these alternatives can be computationally modelled and generated 
 
